@@ -34,7 +34,7 @@ $ git config --global user.email 'scudys@gmail.com'
 >
 > 작업이 끝나면, 커밋할 파일을 모아서(add), 커밋한다. (버전을 기록한다.)
 >
-> ![git](md-images/git-1608615289797.png)
+> ![git](../md-images/git-1608615289797.png)
 
 ### 0. 저장소 설정
 
