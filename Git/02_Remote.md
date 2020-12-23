@@ -50,3 +50,22 @@ To https://github.com/LeeDongu/project-test.git
 
   
 
+## 4. Pull
+
+* 원격 저장소의 변경 사항을 받아옴
+
+  ```bash
+  $ git pull origin master
+  ```
+
+
+
+## 5. Clone
+
+* 원격 저장소를 복제함
+
+  ```bash
+  $ git clone ___ (URL)
+  ```
+
+  
